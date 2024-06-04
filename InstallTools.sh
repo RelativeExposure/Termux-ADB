@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-directory="/sdcard/Download"
+directory="/data/local/tmp"
 echo
 echo -e "\e[93mThis script will install ADB & FastBoot Tools in Termux."
 echo
